@@ -1,0 +1,14 @@
+C:\Users\Jean\Desktop\Github\LoginUI\bin\Debug\net8.0-windows\LoginUI.exe
+C:\Users\Jean\Desktop\Github\LoginUI\bin\Debug\net8.0-windows\LoginUI.deps.json
+C:\Users\Jean\Desktop\Github\LoginUI\bin\Debug\net8.0-windows\LoginUI.runtimeconfig.json
+C:\Users\Jean\Desktop\Github\LoginUI\bin\Debug\net8.0-windows\LoginUI.dll
+C:\Users\Jean\Desktop\Github\LoginUI\bin\Debug\net8.0-windows\LoginUI.pdb
+C:\Users\Jean\Desktop\Github\LoginUI\obj\Debug\net8.0-windows\LoginUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\Github\LoginUI\obj\Debug\net8.0-windows\LoginUI.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\Github\LoginUI\obj\Debug\net8.0-windows\LoginUI.AssemblyInfo.cs
+C:\Users\Jean\Desktop\Github\LoginUI\obj\Debug\net8.0-windows\LoginUI.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\Github\LoginUI\obj\Debug\net8.0-windows\LoginUI.dll
+C:\Users\Jean\Desktop\Github\LoginUI\obj\Debug\net8.0-windows\refint\LoginUI.dll
+C:\Users\Jean\Desktop\Github\LoginUI\obj\Debug\net8.0-windows\LoginUI.pdb
+C:\Users\Jean\Desktop\Github\LoginUI\obj\Debug\net8.0-windows\LoginUI.genruntimeconfig.cache
+C:\Users\Jean\Desktop\Github\LoginUI\obj\Debug\net8.0-windows\ref\LoginUI.dll
