@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoginUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0280db8da6c2e6b2dc6137c38158e66b7257dbff")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoginUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoginUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
